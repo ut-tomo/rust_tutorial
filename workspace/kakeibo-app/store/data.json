@@ -1,0 +1,18 @@
+[
+  {
+    "name": "5月給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 300000,
+    "date": "2022-05-20"
+  },
+  {
+    "name": "爆買い",
+    "category": {
+      "Expense": "Hobby"
+    },
+    "price": 350000,
+    "date": "2022-05-20"
+  }
+]
